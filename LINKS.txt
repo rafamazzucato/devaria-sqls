@@ -1,0 +1,4 @@
+https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
+
+https://www.docker.com/products/docker-desktop
+
